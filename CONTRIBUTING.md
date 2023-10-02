@@ -15,7 +15,7 @@ If you have suggestions for how this project could be improved, or want to repor
 
 We'd also love PRs. If you're thinking of a large PR, we advise opening up an issue first to talk about it, though! Look at the links below if you're not sure how to open a PR.
 
-## Submitting a pull request
+## Submitting pull requests
 
 1. [Fork][fork] and clone the repository.
 1. Configure and install the dependencies: `npm install`.
